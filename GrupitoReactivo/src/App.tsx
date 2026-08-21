@@ -1,11 +1,9 @@
-import ContentOne from './class1/Content.tsx'
+import ContentOne from './class2/Jere/Content'
 
 function App() {
 
   return (
-    <>
     <ContentOne/>
-    </>
   )
 }
 
