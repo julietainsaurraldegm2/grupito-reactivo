@@ -1,4 +1,4 @@
-import ContentOne from './class2/Jere/Content'
+import ContentOne from './class2/Jere/ContentClass2J'
 
 function App() {
 
