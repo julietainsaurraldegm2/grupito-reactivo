@@ -1,9 +1,11 @@
-import Contenedor from "./class3/Gio/Content"
+import Saludo from './class3/Juli/Saludo'
 import './App.css'
 
 function App() {
   return (
-    <Contenedor/>
+
+<Saludo nombre= "Jose" />
+    
      )
 }
 
