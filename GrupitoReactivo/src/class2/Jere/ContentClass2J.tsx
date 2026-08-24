@@ -3,7 +3,6 @@ import Perfil from "./PerfilClass2J.tsx";
 import "./class2J.css"
 
 function Contenedor() {
-    
     return(
         <div>
             <Saludo/>

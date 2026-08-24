@@ -1,14 +1,14 @@
 function Perfil(){
 
-    const nombre = "Giovanni";
-    const bio = "Giovanni la volpe haciendo la clase 2 del modulo de React";
+    const nombre = "Jeremias";
+    const biography = "Jeremais Sosa intentando usar el wifi :c";
     const edad = 18;
 
     return (
         <div className="content">
             <h1>{nombre}</h1>
             <img className="imagen" src="./public/conguito.jpeg"/>
-            <p>{bio}</p>
+            <p>{biography}</p>
             <span>{edad} años</span>
         </div>
     )
