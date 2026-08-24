@@ -3,7 +3,11 @@ interface SaludoProps {
 }
 
 function Saludo({ nombre }: SaludoProps) {
-  return <h1>Hola, {nombre}!</h1>;
+  return (
+    <div>
+      <h2>Hola, {nombre}!</h2>
+    </div>
+  )
 }
 
 export default Saludo

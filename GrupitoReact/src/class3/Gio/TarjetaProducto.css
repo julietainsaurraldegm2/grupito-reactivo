@@ -1,0 +1,13 @@
+.products {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-box {
+    background-color: rgb(0, 31, 97);
+    display: flex;
+    min-width: 100px;
+    flex-direction: column;
+    border-radius: 20px;
+    margin: 5%;
+}
