@@ -1,0 +1,17 @@
+body{
+  padding: 5px;
+}
+.tarjeta{
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 1px 10px 10px 5px rgba(0, 0, 0, 0.44);
+}
+.nameText{
+  color: rgba(0, 0, 0, 0.521);
+}
+.contentTajeta{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  gap: 15px;
+}
